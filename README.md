@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects: [https://github.com/victorFernandez173](https://github.com/victorFernandez173)
 
-- 📫 How to reach me: **victor.fer.gor@gmail.com**
+- 📫 How to reach me: **victor.fer.gor@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
