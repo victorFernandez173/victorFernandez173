@@ -16,7 +16,7 @@
 
 - 🖱️ Check my projects here in github too!
 
-- 🏢 Currenty I'm a fullstack junior web developer at Pyramid Consulting (Madrid, Spain)
+- 🏢 Currenty I'm a junior fullstack web developer at Pyramid Consulting (Madrid, Spain)
 
 
 <h3 align="left">Languages and Tools:</h3>
