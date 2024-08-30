@@ -16,7 +16,7 @@
 
 - 🖱️ Check my projects here in github too!
 
-- 🖱️ My best proyect so far is deployed: https://filmxtra.org
+- 🖱️ My best proyect so far is deployed (a fully functional responsive with lots of features made with Laravel website): https://filmxtra.org
 
 - 🏢 Currenty I'm unemployed but open to work. Previously I've gained a lot of useful experience as afullstack web developer at Pyramid Consulting (Madrid, Spain)
 
