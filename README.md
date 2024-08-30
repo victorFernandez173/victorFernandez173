@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects: [https://github.com/victorFernandez173](https://github.com/victorFernandez173)
 
+- 🖱️ My best proyect so far is deployed (a fully functional responsive with lots of features made with Laravel website): https://filmxtra.org
+
 - 📫 How to reach me: **victor.fer.gor@proton.me**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,8 +17,6 @@
 - 💻 My skillset is varied, you can check bellow the languages and tools I have used so far.
 
 - 🖱️ Check my projects here in github too!
-
-- 🖱️ My best proyect so far is deployed (a fully functional responsive with lots of features made with Laravel website): https://filmxtra.org
 
 - 🏢 Currenty I'm unemployed but open to work. Previously I've gained a lot of useful experience as afullstack web developer at Pyramid Consulting (Madrid, Spain)
 
