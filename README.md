@@ -16,7 +16,9 @@
 
 - 🖱️ Check my projects here in github too!
 
-- 🏢 Currenty I'm a junior fullstack web developer at Pyramid Consulting (Madrid, Spain)
+- 🖱️ My best proyect so far is deployed: https://filmxtra.org
+
+- 🏢 Currenty I'm unemployed but open to work. Previously I've gained a lot of useful experience as afullstack web developer at Pyramid Consulting (Madrid, Spain)
 
 
 <h3 align="left">Languages and Tools:</h3>
