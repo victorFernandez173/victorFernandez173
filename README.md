@@ -7,8 +7,7 @@
 </p>
 
 - 🌍 **Experience:** Senior-level Fullstack Developer focused on scalable solutions.
-- 🏗️ **Expertise:** Architecture design, API development, and performance optimization.
-- 🤖 **AI & Methodology:** Leveraging AI through Spec-Driven Development (SSD) for rapid, reliable software delivery.
+- 🏗️ **Expertise:** Architecture design, API development, and performance optimization — incorporating AI through Spec-Driven Development (SSD).
 - 🏢 **Current:** Fullstack Developer at **ACCOM**.
 - 🏢 **Previous:** Fullstack Web Developer at **Pyramid Consulting** (Madrid) and **Help Global Consulting** (Las Rozas).
 - 🖱️ **Featured:** [FilmXtra](https://github.com/victorFernandez173/filmXtra-vue) — High-performance platform built with Laravel (currently in refactor).
