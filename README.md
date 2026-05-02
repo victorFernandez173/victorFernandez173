@@ -1,55 +1,79 @@
-# <h2>Hi 👋, I'm Víctor Fernández!</h2>
+<h2>Hi 👋, I'm Víctor Fernández!</h2>
 
-### 🚀 Fullstack Engineer | Specialized in PHP, Laravel & Modern Architectures
+<h3>🚀 Fullstack Engineer | PHP, Laravel & Modern Architectures</h3>
 
-<p>
-  <img src="https://komarev.com" alt="victorfernandez173" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=victorfernandez173&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌍 **Currently:** Senior-level Fullstack Developer with a focus on scalable web applications.
-- 🏗️ **Core Expertise:** Architecture design, API development, and performance optimization.
-- 🛠️ **Featured Project:** [FilmXtra](https://filmxtra.org) — A high-performance, feature-rich platform built with Laravel.
-- 🏢 **Experience:** Proven track record at **Pyramid Consulting**, delivering enterprise-grade solutions.
+- 🌍 **Experience:** Senior-level Fullstack Developer focused on scalable solutions.
+- 🏗️ **Expertise:** Architecture design, API development, and performance optimization.
+- 🏢 **Current:** Fullstack Developer at **ACCOM**.
+- 🏢 **Previous:** Fullstack Web Developer at **Pyramid Consulting** (Madrid) and **Help Global Consulting** (Las Rozas).
+- 🖱️ **Featured:** [FilmXtra](https://github.com/victorFernandez173/filmXtra-vue) — High-performance platform built with Laravel (currently in refactor).
 - ✉️ **Contact:** [victor.fer.gor@proton.me](mailto:victor.fer.gor@proton.me)
-- 💼 **Status:** Open to senior-level roles and complex technical challenges.
 
 ---
 
-### 💻 Technical Ecosystem
+### 🛠️ Tech Stack & Ecosystem
 
+**Backend**
 <p align="left">
-  <strong>Backend & Infrastructure</strong><br>
-  <img src="https://githubusercontent.com" alt="php" width="45" height="45"/>
-  <img src="https://rishav.dev" alt="Laravel" height="45" />
-  <img src="https://githubusercontent.com" alt="mysql" width="45" height="45"/>
-  <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/>
-  <img src="https://githubusercontent.com" alt="linux" width="45" height="45"/>
-  <img src="https://vectorlogo.zone" alt="git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,spring&perline=5" alt="Backend Stack" />
 </p>
 
+**Frontend**
 <p align="left">
-  <strong>Frontend & Reactive UI</strong><br>
-  <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
-  <img src="https://githubusercontent.com" alt="vuejs" width="45" height="45"/>
-  <img src="https://githubusercontent.com" alt="sass" width="45" height="45"/>
-  <img src="https://githubusercontent.com" alt="bootstrap" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js,vue,html,sass,bootstrap&perline=5" alt="Frontend Stack" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git&perline=3" alt="DevOps Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://vercel.app" alt="GitHub Stats" height="180" />
-<img src="https://vercel.app" alt="Top Languages" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorfernandez173&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandez173&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 FilmXtra</h3>
+      <p align="center">
+        <a href="https://github.com/victorFernandez173/filmXtra-vue" target="_blank">📂 View Repository</a>
+        <br><br>
+        High-performance platform built with Laravel + Vue.js. Fully responsive with extensive features. Currently being refactored.
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,js,bootstrap" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 More Projects</h3>
+      <p align="center">
+        Check out my <a href="https://github.com/victorFernandez173?tab=repositories">GitHub Repositories</a>
+        <br><br>
+        for more projects and contributions.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com" target="blank">
-    <img src="https://githubusercontent.com" alt="Víctor Fernández" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-fern%C3%A1ndez-gormaz-00a37b268" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
