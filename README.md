@@ -46,28 +46,21 @@
 
 ### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎬 FilmXtra</h3>
-      <p align="center">
-        <a href="https://github.com/victorFernandez173/filmXtra-vue" target="_blank">📂 View Repository</a>
-        <br><br>
-        High-performance platform built with Laravel + Vue.js. Fully responsive with extensive features. Currently being refactored.
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,js,bootstrap" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📦 More Projects</h3>
-      <p align="center">
-        Check out my <a href="https://github.com/victorFernandez173?tab=repositories">GitHub Repositories</a>
-        <br><br>
-        for more projects and contributions.
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">🎬 FilmXtra</h3>
+<p align="center">
+  <a href="https://github.com/victorFernandez173/filmXtra-vue" target="_blank">📂 View Repository</a>
+  <br><br>
+  High-performance platform built with Laravel + Vue.js. Fully responsive with extensive features. Currently being refactored.
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,js,bootstrap" />
+</p>
+
+<h3 align="center">📦 More Projects</h3>
+<p align="center">
+  Check out my <a href="https://github.com/victorFernandez173?tab=repositories">GitHub Repositories</a>
+  <br><br>
+  for more projects and contributions.
+</p>
 
 ---
 
