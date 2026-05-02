@@ -8,6 +8,7 @@
 
 - 🌍 **Experience:** Senior-level Fullstack Developer focused on scalable solutions.
 - 🏗️ **Expertise:** Architecture design, API development, and performance optimization.
+- 🤖 **AI & Methodology:** Leveraging AI through Spec-Driven Development (SSD) for rapid, reliable software delivery.
 - 🏢 **Current:** Fullstack Developer at **ACCOM**.
 - 🏢 **Previous:** Fullstack Web Developer at **Pyramid Consulting** (Madrid) and **Help Global Consulting** (Las Rozas).
 - 🖱️ **Featured:** [FilmXtra](https://github.com/victorFernandez173/filmXtra-vue) — High-performance platform built with Laravel (currently in refactor).
@@ -19,7 +20,7 @@
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,spring&perline=5" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,mongodb,java,spring&perline=7" alt="Backend Stack" />
 </p>
 
 **Frontend**
@@ -37,8 +38,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorfernandez173&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandez173&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorFernandez173&theme=default" alt="GitHub Stats" height="165" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorFernandez173&theme=default" alt="Top Languages" height="165" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorFernandez173&theme=default" alt="Most Commit Language" height="165" /> -->
 </p>
 
 ---
